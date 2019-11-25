@@ -1,0 +1,52 @@
+.container {
+  border-bottom: 1px solid gray;
+  float: center;
+}
+
+#mealsDiv {
+  float: center;
+}
+
+body {
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+div,
+p {
+  color: white;
+}
+
+.main {
+  font-size: 16px;
+  font-weight: bold;
+  color: #7C9BC8;
+}
+
+.side {
+  font-size: 14px;
+  color: #B878C8;
+}
+
+.dessert {
+  color: #88C740;
+  font-size: 14px;
+}
+
+#mains {
+  font-size: 12pt;
+  color: #7C9BC8;
+}
+
+#sides {
+  font-size: 12pt;
+  color: #B878C8;
+}
+
+#desserts {
+  font-size: 12pt;
+  color: #88C740;
+}
